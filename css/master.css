@@ -1,7 +1,14 @@
 img {
-    height: 10%;
-    width: 10%;
+    height: 25%;
+    width: 25%;
 }
+/* table {
+    width: 30%;
+}
+td {
+    width: 10%;
+    height: 10%;  
+} */
 hr {
     width: 10%;
     height: 0.3%;

@@ -1,12 +1,13 @@
-table {
-    background-color: #FCFFE7;
-}
-td {
-    text-align: center;
+img {
+    height: 10%;
+    width: 10%;
 }
 hr {
     width: 10%;
     height: 0.3%;
     border-style: none;
     border-top-style: dotted;
+}
+h1 {
+    color: aquamarine;
 }
